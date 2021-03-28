@@ -1,6 +1,6 @@
 # bloc_flutter
 
-A new Flutter project.
+Simple Bloc.
 
 ## Getting Started
 
